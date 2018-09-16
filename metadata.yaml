@@ -1,0 +1,26 @@
+_repo: Federal-Stamp-Taxes-on-Drafts-Checks-and-Promissory-Notes-1919_51894
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Guaranty Trust Company of New York
+    alias: York, Guaranty Trust Company of New
+    gutenberg_agent_id: '33660'
+    url: http://www.gutenberg.org/2009/agents/33660
+description: ''
+gutenberg_issued: '2016-04-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51894'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HG'
+- !lcsh 'Drafts'
+- !lcsh 'Stamp duties -- United States'
+- !lcsh 'Checks'
+- !lcsh 'Promissory notes'
+- GITenberg
+title: Federal Stamp Taxes on Drafts, Checks and Promissory Notes, 1919
+url: http://www.gutenberg.org/ebooks/51894
