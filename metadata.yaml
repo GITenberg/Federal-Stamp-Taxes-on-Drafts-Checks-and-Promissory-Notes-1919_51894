@@ -1,5 +1,8 @@
 _repo: Federal-Stamp-Taxes-on-Drafts-Checks-and-Promissory-Notes-1919_51894
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 51894-h/images/cover.jpg
 creator:
   author:
     agent_name: Guaranty Trust Company of New York
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '33660'
     url: http://www.gutenberg.org/2009/agents/33660
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51894#Federal-Stamp-Taxes-on-Drafts-Checks-and-Promissory-Notes-1919
 gutenberg_issued: '2016-04-30'
 gutenberg_type: Text
 identifiers:
